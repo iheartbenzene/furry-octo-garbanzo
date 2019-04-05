@@ -1,3 +1,6 @@
+<head>
+<style type="text/css">
+
 html, body {
   font-family: sans-serif, monospace;
   text-align: center;
@@ -177,6 +180,9 @@ footer a {
     line-height: normal;
   }
 }
+</style>
+</head>
+
 
 <nav>
   <ul id="navbar">
